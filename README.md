@@ -1,4 +1,5 @@
-### Всем привет, меня зовут Константин (Hi there, I'm Konstantin) 👋
+### Всем привет, меня зовут Константин 👋
+### (Hi there, I'm Konstantin)
 
 .NET developer 
 
@@ -10,7 +11,8 @@ Skills: C# / WPF / EntityFramework
 
 ---
 
-#### ⚡ Технологии Technologies
+#### ⚡ Технологии 
+#### (Technologies)
 
 Вот некоторые из технологий и инструментов, с которыми я работаю:<br>
 (These are some of the technologies and tools that I work with:)
@@ -29,7 +31,8 @@ Skills: C# / WPF / EntityFramework
 
 ---
 
-#### :bar_chart: Популярные языки (Most used languages)
+#### :bar_chart: Популярные языки 
+#### (Most used languages)
 
 <p align="left">
 <a href="https://github.com/kosmitster">
@@ -39,7 +42,8 @@ Skills: C# / WPF / EntityFramework
 
 ---
 
-#### :octocat: Github статистика (My Github Stats)
+#### :octocat: Github статистика
+#### (My Github Stats)
 
 <p align="left">
 <a href="https://github.com/kosmitster">
@@ -49,7 +53,8 @@ Skills: C# / WPF / EntityFramework
 
 ---
 
-#### :chart_with_upwards_trend: Общий вклад (My GitHub streak stats)
+#### :chart_with_upwards_trend: Общий вклад
+#### (My GitHub streak stats)
 
 <p align="left">
 <a href="https://github.com/kosmitster">
