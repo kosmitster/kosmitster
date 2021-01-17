@@ -21,6 +21,7 @@ These are some of the technologies and tools that I work with:
 ![T-SQL](https://img.shields.io/badge/-TSQL-blue?style=flat-square)
 ![VisualStudio](https://img.shields.io/badge/-Visual%20Studio-blue?style=flat-square&logo=Visual%20Studio)
 ![VisualStudioCode](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual%20Studio%20Code)
+![VisualStudioCode](https://img.shields.io/badge/-PowerShell-blue?style=flat-square&logo=PowerShell)
 ![Git](https://img.shields.io/badge/-Git-blue?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-blue?style=flat-square&logo=github)
 ![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java)
