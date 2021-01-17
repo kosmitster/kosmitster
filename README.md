@@ -29,8 +29,6 @@ Skills: C# / WPF / EntityFramework
 
 ---
 
----
-
 #### :bar_chart: Популярные языки (Most used languages)
 
 <p align="left">
@@ -51,8 +49,6 @@ Skills: C# / WPF / EntityFramework
 
 ---
 
----
-
 #### :chart_with_upwards_trend: Общий вклад (My GitHub streak stats)
 
 <p align="left">
@@ -60,5 +56,3 @@ Skills: C# / WPF / EntityFramework
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kosmitster&hide_border=true" />
 </a>
 </p>
-
----
