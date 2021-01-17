@@ -13,7 +13,7 @@ Skills: C# / WPF / EntityFramework
 #### ⚡ Технологии Technologies
 
 Вот некоторые из технологий и инструментов, с которыми я работаю:<br>
-These are some of the technologies and tools that I work with:
+(These are some of the technologies and tools that I work with:)
 
 ![CSharp](https://img.shields.io/badge/-C%20Sharp-blue?style=flat-square&logo=C%20Sharp)
 ![WPF](https://img.shields.io/badge/-Windows%20Presentation%20Foundation-blue?style=flat-square)
