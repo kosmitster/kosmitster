@@ -36,13 +36,17 @@ These are some of the technologies and tools that I work with:
 ---
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kosmitster&hide_border=true&layout=compact&langs_count=8)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kosmitster&layout=compact&langs_count=8)
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kosmitster&layout=compact)  
+
 ---
 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kosmitster&hide_border=true&layout=compact)  
----
 
----
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kosmitster)  
+
 ---
