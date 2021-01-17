@@ -26,6 +26,8 @@ These are some of the technologies and tools that I work with:
 ![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java)
 ![JasperReport](https://img.shields.io/badge/-JasperReport-blue?style=flat-square)
 
+---
+
 <details>
   <summary>:bar_chart: Most used languages</summary> 
 
