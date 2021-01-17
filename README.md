@@ -27,8 +27,8 @@ These are some of the technologies and tools that I work with:
 ![JasperReport](https://img.shields.io/badge/-JasperReport-blue?style=flat-square)
 
 ---
-
-#### :bar_chart: Most used languages
+<details>
+  <summary>:bar_chart: Most used languages</summary> 
 
 <p align="left">
 <a href="https://github.com/kosmitster">
@@ -36,9 +36,11 @@ These are some of the technologies and tools that I work with:
 </a>
 </p>
 
+</details>
 ---
 
-#### :octocat: My Github Stats
+<details>
+  <summary>:octocat: My Github Stats</summary> 
 
 <p align="left">
 <a href="https://github.com/kosmitster">
@@ -46,12 +48,16 @@ These are some of the technologies and tools that I work with:
 </a>
 </p>
 
+</details>
 ---
 
-#### :chart_with_upwards_trend: My GitHub streak stats
+<details>
+  <summary>:chart_with_upwards_trend: My GitHub streak stats</summary>  
 
 <p align="left">
 <a href="https://github.com/kosmitster">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kosmitster&hide_border=true" />
 </a>
 </p>
+
+</details>
