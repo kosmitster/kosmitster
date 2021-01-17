@@ -1,5 +1,4 @@
-### Всем привет, меня зовут Константин 👋
-### (Hi there, I'm Konstantin)
+### Hi there, I'm Konstantin 👋
 
 .NET developer 
 
@@ -11,11 +10,9 @@ Skills: C# / WPF / EntityFramework
 
 ---
 
-#### ⚡ Технологии 
-#### (Technologies)
+#### ⚡ Technologies
 
-Вот некоторые из технологий и инструментов, с которыми я работаю:<br>
-(These are some of the technologies and tools that I work with:)
+These are some of the technologies and tools that I work with:
 
 ![CSharp](https://img.shields.io/badge/-C%20Sharp-blue?style=flat-square&logo=C%20Sharp)
 ![WPF](https://img.shields.io/badge/-Windows%20Presentation%20Foundation-blue?style=flat-square)
@@ -31,30 +28,27 @@ Skills: C# / WPF / EntityFramework
 
 ---
 
-#### :bar_chart: Популярные языки 
-#### (Most used languages)
+#### :bar_chart: Most used languages
 
 <p align="left">
 <a href="https://github.com/kosmitster">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kosmitster&layout=compact&langs_count=10&hide_border=true&locale=ru" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kosmitster&layout=compact&langs_count=10&hide_border=true" />
 </a>
 </p>
 
 ---
 
-#### :octocat: Github статистика
-#### (My Github Stats)
+#### :octocat: My Github Stats
 
 <p align="left">
 <a href="https://github.com/kosmitster">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kosmitster&layout=compact&hide_border=true&locale=ru" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kosmitster&layout=compact&hide_border=true" />
 </a>
 </p>
 
 ---
 
-#### :chart_with_upwards_trend: Общий вклад
-#### (My GitHub streak stats)
+#### :chart_with_upwards_trend: My GitHub streak stats
 
 <p align="left">
 <a href="https://github.com/kosmitster">
