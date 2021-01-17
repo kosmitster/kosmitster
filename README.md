@@ -25,7 +25,7 @@ These are some of the technologies and tools that I work with:
 ![Git](https://img.shields.io/badge/-Git-blue?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-blue?style=flat-square&logo=github)
 ![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java)
-![JasperReport](https://img.shields.io/badge/-JasperReport-blue?style=flat-square&logo=java)
+![JasperReport](https://img.shields.io/badge/-JasperReport-blue?style=flat-square)
 
 ---
 
