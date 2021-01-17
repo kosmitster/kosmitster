@@ -31,11 +31,11 @@ These are some of the technologies and tools that I work with:
 
 ---
 
-#### :bar_chart: Популярные языки (My Top Langs)
+#### :bar_chart: Популярные языки (Most used languages)
 
 <p align="left">
 <a href="https://github.com/kosmitster">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kosmitster&layout=compact&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kosmitster&layout=compact&langs_count=10&hide_border=true&locale=ru" />
 </a>
 </p>
 
@@ -45,7 +45,7 @@ These are some of the technologies and tools that I work with:
 
 <p align="left">
 <a href="https://github.com/kosmitster">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kosmitster&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kosmitster&layout=compact&hide_border=true&locale=ru" />
 </a>
 </p>
 
@@ -57,7 +57,7 @@ These are some of the technologies and tools that I work with:
 
 <p align="left">
 <a href="https://github.com/kosmitster">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kosmitster" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kosmitster&hide_border=true" />
 </a>
 </p>
 
