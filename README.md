@@ -36,6 +36,9 @@ These are some of the technologies and tools that I work with:
   <summary>:chart_with_upwards_trend: Coding Stats</summary> 
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 </details>
