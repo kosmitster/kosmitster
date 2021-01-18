@@ -1,4 +1,4 @@
-### Hi there, I'm Konstantin 👋
+### Привет (Hi) there, I'm Konstantin 👋
 
 .NET developer 
 
