@@ -32,6 +32,10 @@ These are some of the technologies and tools that I work with:
 #### Profile Visits 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kosmitster.kosmitster)
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <details>
   <summary>:bar_chart: Most used languages</summary> 
 
