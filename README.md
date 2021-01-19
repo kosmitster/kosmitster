@@ -39,10 +39,10 @@ These are some of the technologies and tools that I work with:
 ```text
 Week: 11 January, 2021 - 18 January, 2021
 
-C#           2 hrs 21 mins   ███████████████▓░░░░░░░░░   62.90 % 
-Markdown     50 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.60 % 
-Other        27 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-PowerShell   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+C#           2 hrs 21 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀   62.90 % 
+Markdown     50 mins         ⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.60 % 
+Other        27 mins         ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.37 % 
+PowerShell   4 mins          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.13 % 
 ```
 <!--END_SECTION:waka-->
 
