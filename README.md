@@ -32,6 +32,9 @@ These are some of the technologies and tools that I work with:
 #### Profile Visits 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kosmitster.kosmitster)
 
+#### Code Wars
+![Code Wars](https://www.codewars.com/users/kosmitster/badges/micro)
+
 <details>
   <summary>:chart_with_upwards_trend: Coding Stats</summary> 
 
