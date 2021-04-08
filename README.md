@@ -36,23 +36,6 @@ These are some of the technologies and tools that I work with:
 ![Code Wars](https://www.codewars.com/users/kosmitster/badges/micro)
 
 <details>
-  <summary>:chart_with_upwards_trend: Coding Stats</summary> 
-
-<!--START_SECTION:waka-->
-```text
-Week: 23 March, 2021 - 30 March, 2021
-
-Java     26 hrs 21 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   68.22 % 
-Groovy   3 hrs 50 mins   ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.96 % 
-C#       3 hrs 31 mins   ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.12 % 
-YAML     2 hrs 19 mins   ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.03 % 
-XML      1 hr 13 mins    ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.15 % 
-```
-<!--END_SECTION:waka-->
-
-</details>
-
-<details>
   <summary>:bar_chart: Most used languages</summary> 
 
 <p align="left">
